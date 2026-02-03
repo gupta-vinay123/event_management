@@ -37,8 +37,3 @@ A modern, full-stack event booking and management solution built using the **MER
 - **Payment Gateway:** Stripe.
 - **Reporting & Tickets:** jsPDF, jspdf-autotable, QR Code generator.
 
-## 📦 Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/event-management-system.git](https://github.com/your-username/event-management-system.git)
